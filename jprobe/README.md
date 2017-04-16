@@ -1,4 +1,5 @@
-JPROBE/Kprobe implementation.
+# JPROBE/Kprobe implementation.
 
-user level appliation calling kernal module.
+User-level appliation calling kernal module.
+
 Refer JPROBE implementation.
