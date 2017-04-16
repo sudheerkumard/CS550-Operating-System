@@ -12,7 +12,7 @@
 
 
 MODULE_LICENSE("GPL");
-MODULE_AUTHOR("Tanmay Tapar and Omkar Nibandhe");
+MODULE_AUTHOR("Omkar Nibandhe");
 MODULE_DESCRIPTION("FIFO queue for Producer Consumer Problem ");
 MODULE_VERSION("1.0");
 
