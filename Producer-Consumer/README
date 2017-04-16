@@ -1,0 +1,18 @@
+----------------------------------------------------------------------------------------------------------
+Team member:
+		Omkar Nibandhe	oniband1@binghamton.edu
+
+----------------------------------------------------------------------------------------------------------
+To run:
+	simply untar the ttapar1_oniband1_proj3.tar.gz
+	using terminal go to the folder and type make
+	
+	using sudo priviledges run the following command:
+		insmod miscdevice.ko max=10
+		./producer N
+		./consumer N
+	N bydefault is set to 20. So if not provided, producer and consumer will run to produce, 
+	consume 20 items(strings)
+	max=10 is the argument which fixes the size of queue while installing the module.
+	
+----------------------------------------------------------------------------------------------------------
